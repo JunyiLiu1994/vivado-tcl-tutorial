@@ -1,0 +1,7 @@
+.bloop
+.metals
+.vscode
+
+out
+fpga/build
+fpga/src/rtl
